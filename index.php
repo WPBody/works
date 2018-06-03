@@ -1,4 +1,5 @@
 <?php
 
-// First line
-
+if ( ! defined( 'ABSPATH' ) ) {
+    die;
+}
